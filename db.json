@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "text": "React is an excellent library for development of single-page applications using Javascript. We are currently using it to develop SPAs.",
+      "rating": 8,
+      "id": 1
+    },
+    {
+      "text": "It's a flexible lightweight javascript library for building user interfaces. we use to react to develop SPA single-page applications.",
+      "rating": 9,
+      "id": 2
+    }
+  ]
+}
